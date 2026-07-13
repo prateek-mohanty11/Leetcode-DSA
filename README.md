@@ -52,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
