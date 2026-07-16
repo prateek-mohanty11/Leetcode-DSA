@@ -10,18 +10,14 @@ public class Solution {
             slow = slow.next;
             fast = fast.next.next;
             if (fast == slow) {
-                found = true;
-                break;
+                slow = head;
+                while (slow != fast) {
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+                return slow;
             }
         }
-        if (!found) {
-            return null;
-        }
-        slow = head;
-        while (slow != fast) {
-            slow = slow.next;
-            fast = fast.next;
-        }
-        return slow;
+        return null;
     }
 }
