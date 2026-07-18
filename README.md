@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1025-divisor-game) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Brainteaser
 |  |
 | ------- |
