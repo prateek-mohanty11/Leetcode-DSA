@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [1025-divisor-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
