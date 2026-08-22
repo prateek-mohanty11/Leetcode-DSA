@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1025-divisor-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
