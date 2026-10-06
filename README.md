@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0075-sort-colors) |
 ## Sweep Line
 |  |
 | ------- |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
