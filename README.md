@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/prateek-mohanty11/Leetcode-DSA/tree/master/0918-maximum-sum-circular-subarray) |
